@@ -2,7 +2,7 @@
 %% --- EVENTS AND THEIR TYPE --- %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%% PRINT WRITER JAVA
+%% SIMPLE TEST
 event(a1).
 event(a2).
 event(c).
